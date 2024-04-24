@@ -2,5 +2,5 @@
 
 # TODO
 
-- [ ] Connect to boot
+- [ ] Connect to bot
 - [ ] Slash commands
